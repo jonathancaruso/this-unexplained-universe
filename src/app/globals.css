@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+body {
+  @apply bg-void-950 text-gray-200;
+}
+
+::selection {
+  @apply bg-nebula-500/40 text-white;
+}
+
+/* Subtle glow effects */
+.glow-sm {
+  box-shadow: 0 0 15px rgba(124, 80, 176, 0.15);
+}
+
+.glow-teal {
+  box-shadow: 0 0 20px rgba(48, 184, 152, 0.1);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-void-900;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-void-600 rounded-full;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-void-500;
+}

@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.env*
+*.env
+*-credentials.json
+*-token.json
+*.key
+*.pem
+*.secret
+secrets.json
+auth.json
+tokens.json
+*.sqlite
+*.db
+.vercel
