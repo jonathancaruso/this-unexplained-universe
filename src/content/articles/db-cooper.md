@@ -29,6 +29,10 @@ He took seat 18-E, the last row of the plane, and ordered a bourbon and 7-Up. Sh
 
 The note, written in neat capital letters with a felt-tip pen, read: "Miss, I have a bomb in my briefcase and want you to sit by me." When Schaffner asked to see it, Cooper cracked open his briefcase. Inside was a large cylindrical battery wired to eight red cylinders that looked like dynamite.
 
+![FBI composite sketch of D.B. Cooper, drawn from witness descriptions after the 1971 hijacking](/images/articles/db-cooper-fbi-composite-sketch.jpg)
+
+*The FBI's 1972 composite sketch of Dan Cooper, based on descriptions from flight attendants and passengers. This image became one of the most widely circulated sketches in American criminal history. (Public domain, FBI)*
+
 ![A dramatic scene of an abandoned airplane under a starry night sky, evoking the mystery of Flight 305](/images/articles/db-cooper-airplane-night.jpg)
 
 Cooper relayed his demands through the flight crew to Northwest Orient's headquarters: $200,000 in "negotiable American currency," packed in a knapsack, plus four parachutes (two front, two back). By requesting two sets of parachutes, he cleverly implied he might take a hostage with him, which discouraged authorities from providing sabotaged equipment.
