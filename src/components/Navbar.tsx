@@ -21,6 +21,12 @@ export default function Navbar() {
           <Link href="/articles" className="text-gray-300 hover:text-signal-400 transition-colors text-sm font-medium">
             Articles
           </Link>
+          <Link href="/map" className="text-gray-300 hover:text-signal-400 transition-colors text-sm font-medium">
+            Mystery Map
+          </Link>
+          <Link href="/today" className="text-gray-300 hover:text-signal-400 transition-colors text-sm font-medium">
+            This Day
+          </Link>
           <Link href="/about" className="text-gray-300 hover:text-signal-400 transition-colors text-sm font-medium">
             About
           </Link>
@@ -44,6 +50,12 @@ export default function Navbar() {
           <div className="px-4 py-4 space-y-3">
             <Link href="/articles" onClick={() => setOpen(false)} className="block text-gray-300 hover:text-signal-400 transition-colors">
               Articles
+            </Link>
+            <Link href="/map" onClick={() => setOpen(false)} className="block text-gray-300 hover:text-signal-400 transition-colors">
+              Mystery Map
+            </Link>
+            <Link href="/today" onClick={() => setOpen(false)} className="block text-gray-300 hover:text-signal-400 transition-colors">
+              This Day
             </Link>
             <Link href="/about" onClick={() => setOpen(false)} className="block text-gray-300 hover:text-signal-400 transition-colors">
               About
