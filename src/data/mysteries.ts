@@ -49,7 +49,7 @@ export const mysteries: Mystery[] = [
 
   // === Famous mysteries without articles ===
   { name: 'Area 51', lat: 37.24, lng: -115.81, category: 'UFOs & UAPs', summary: 'A highly classified US Air Force facility in Nevada. Its secrecy has fueled decades of speculation about reverse-engineered alien technology.', slug: 'area-51' },
-  { name: 'Stonehenge', lat: 51.18, lng: -1.83, category: 'Ancient Mysteries', summary: 'Built in stages between 3000 and 2000 BCE, this megalithic monument in Wiltshire still puzzles researchers about its exact purpose and construction methods.', slug: null },
+  { name: 'Stonehenge', lat: 51.18, lng: -1.83, category: 'Ancient Mysteries', summary: 'Built in stages between 3000 and 2000 BCE, this megalithic monument in Wiltshire still puzzles researchers about its exact purpose and construction methods.', slug: 'stonehenge' },
   { name: 'Easter Island (Rapa Nui)', lat: -27.12, lng: -109.37, category: 'Ancient Mysteries', summary: 'Nearly 900 massive stone statues (moai) were carved and transported across this remote Pacific island by the Rapa Nui people, starting around 1250 CE.', slug: null },
   { name: 'Pyramids of Giza', lat: 29.98, lng: 31.13, category: 'Ancient Mysteries', summary: 'The Great Pyramid was built around 2560 BCE with over 2 million stone blocks. How a Bronze Age civilization achieved such precision remains debated.', slug: null },
   { name: 'Roswell Incident', lat: 33.39, lng: -104.52, category: 'UFOs & UAPs', summary: 'In July 1947, debris from an unknown object was recovered near Roswell, New Mexico. The military first called it a "flying disc" before retracting the statement.', slug: null },
