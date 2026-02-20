@@ -1,169 +1,149 @@
 ---
-title: "Overtoun Bridge: Why Have Hundreds of Dogs Jumped From This Scottish Bridge?"
-description: "At least 300 dogs have leapt from Overtoun Bridge near Dumbarton, Scotland since the 1950s. Explore the mink theory, paranormal claims, and why no one can fully explain it."
+title: "Overtoun Bridge: Why Do Dogs Keep Jumping From Scotland's 'Suicide Bridge'?"
+description: "Since the 1950s, hundreds of dogs have leapt from Overtoun Bridge near Dumbarton, Scotland. At least 50 have died. Nobody's fully explained why."
 date: "2026-02-20"
 category: "Consciousness"
-image: "https://images.pexels.com/photos/18843716/pexels-photo-18843716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-keywords: ["Overtoun Bridge", "dog suicide bridge Scotland", "Overtoun Bridge dogs", "Overtoun Bridge mystery", "dogs jumping off bridge"]
+image: "/images/articles/scottish-stone-bridge.jpg"
+imageAlt: "Scenic view of a stone bridge and castle in the misty Scottish Highlands"
+keywords: ["Overtoun Bridge", "Overtoun Bridge dogs", "dog suicide bridge Scotland", "why do dogs jump off Overtoun Bridge", "Overtoun Bridge mystery"]
 ---
 
-The bridge doesn't look like a place where anything strange would happen. It's a handsome Victorian structure built from rough-faced stone, with three arches spanning a steep, wooded ravine called Spardie Linn. It sits on the approach road to Overtoun House, a grand estate near Dumbarton in West Dunbartonshire, Scotland. Completed in 1895, it's the kind of bridge you'd walk across without thinking twice.
+You're walking your golden retriever across a Victorian stone bridge in the Scottish countryside. It's a normal afternoon. The bridge is old and beautiful, arching over a deep, wooded ravine near Dumbarton, northwest of Glasgow. Your dog has walked this kind of path a hundred times before. Then, without warning, it bolts to the right side of the bridge, scrambles up the stone parapet, and throws itself over the edge.
 
-Unless you're walking a dog.
+Fifty feet below, jagged rocks line the bottom of the gorge.
 
-Since the 1950s, at least 300 dogs have leapt from Overtoun Bridge. At least 50 of them died on the rocks 50 feet below. The incidents follow a pattern that's difficult to explain: the dogs show no prior signs of distress, they jump from roughly the same spot on the bridge, and they almost always jump on clear, dry days. Some dogs that survived the fall have gone back to the bridge and jumped again.
-
-No one has been able to fully explain why. The Overtoun Bridge dog leaps remain one of Scotland's strangest and most unsettling mysteries.
+This isn't a hypothetical. It's happened to at least 300 dogs since the 1950s. At least 50 of them died. And despite investigations by animal behaviorists, the Scottish SPCA, and the Royal Society for the Protection of Birds, nobody has fully explained why dogs keep jumping from Overtoun Bridge.
 
 ## What You'll Learn
 
-- [The History of Overtoun Bridge](#the-history-of-overtoun-bridge)
-- [How Many Dogs Have Jumped From Overtoun Bridge?](#how-many-dogs-have-jumped-from-overtoun-bridge)
-- [What Happens When a Dog Jumps?](#what-happens-when-a-dog-jumps)
+- [What Is Overtoun Bridge?](#what-is-overtoun-bridge)
+- [How Many Dogs Have Jumped?](#how-many-dogs-have-jumped)
+- [Do the Dogs Jump From the Same Spot?](#do-the-dogs-jump-from-the-same-spot)
 - [The Mink Scent Theory](#the-mink-scent-theory)
-- [Why Does It Only Happen at One Spot on the Bridge?](#why-does-it-only-happen-at-one-spot-on-the-bridge)
-- [The Paranormal Theories](#the-paranormal-theories)
-- [The 1994 Tragedy](#the-1994-tragedy)
-- [What Have Official Investigations Found?](#what-have-official-investigations-found)
-- [Why Hasn't This Been Solved?](#why-hasnt-this-been-solved)
+- [Does the Bridge's Design Trick Dogs?](#does-the-bridges-design-trick-dogs)
+- [The Paranormal Explanations](#the-paranormal-explanations)
+- [Can Dogs Actually Commit Suicide?](#can-dogs-actually-commit-suicide)
+- [What's Been Done to Stop It?](#whats-been-done-to-stop-it)
 - [Frequently Asked Questions](#frequently-asked-questions)
 
-## The History of Overtoun Bridge
+## What Is Overtoun Bridge?
 
-The bridge's story begins with Scottish industrialist James White, who bought the Overtoun Farm in 1859 and built Overtoun House three years later. When White died in 1884, his son John Campbell White (later the 1st Baron Overtoun) inherited the estate and wanted to extend the driveway across the deep ravine for easier access.
+Overtoun Bridge is a category B-listed stone structure that crosses a deep ravine called Spardie Linn on the approach road to Overtoun House, a Victorian manor near Dumbarton in West Dunbartonshire, Scotland. It was designed by landscape architect H.E. Milner and completed in June 1895.
 
-He hired landscape architect Henry Ernest Milner to design the crossing. The bridge, constructed from rough-faced ashlar stone, was completed in June 1895. It's a striking structure: a large central arch spans the Overtoun Burn, flanked by two smaller arches on either side. Decorative bartizans (small turrets) give it an almost castle-like appearance.
+The bridge is built from rough-faced ashlar stone and features three arches: one large central arch spanning the Overtoun Burn and two smaller flanking arches on either side. It's an elegant piece of Victorian engineering, decorated with turret-like bartizans that give it a slightly gothic appearance.
 
-![Scenic view of a Scottish castle and stone bridge, similar in style to the Victorian architecture of Overtoun Bridge](https://images.pexels.com/photos/18843716/pexels-photo-18843716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+The setting is striking. The bridge sits in lush, overgrown grounds surrounded by dense woodland. Below the parapet walls, the ravine drops roughly 50 feet (15 meters) to a rocky streambed. From a dog's eye level, none of that drop is visible.
 
-For its first half-century, the bridge was unremarkable. Then, in the 1950s, locals began noticing something disturbing: dogs were jumping off it. Not occasionally. Regularly. And the behavior showed no signs of stopping.
+The original owner, Scottish industrialist James White, built Overtoun House in 1862. His son, John Campbell White (later Baron Overtoun), commissioned the bridge to extend the driveway across the ravine. It was a private estate bridge, built for carriages and foot traffic. Nobody anticipated it would become known as the "Dog Suicide Bridge."
 
-## How Many Dogs Have Jumped From Overtoun Bridge?
+![Scenic view of a stone bridge and castle in the misty Scottish Highlands](https://images.pexels.com/photos/18843716/pexels-photo-18843716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
-Research has documented at least 300 dogs jumping from the bridge since the 1950s, with at least 50 dying from the impact on the rocks below. The actual numbers are likely higher, since not all incidents were reported, particularly in the early decades.
+## How Many Dogs Have Jumped?
 
-The phenomenon became more widely known during the 2000s and early 2010s when local reports started appearing in national and international media. Some notable documented cases:
+Research has documented at least 300 dogs jumping from the bridge since the 1950s, with at least 50 dying from the fall. The true numbers are likely higher, since not every incident gets reported, especially in the decades before the bridge became famous.
 
-- **2004:** Kenneth Meikle was walking with his family and their Golden Retriever when the dog suddenly bolted and jumped. It survived but was deeply traumatized.
-- **2005:** At least five dogs jumped from the bridge within a six-month period.
-- **2014:** Alice Trevorrow was walking her Springer Spaniel, Cassie, when the normally obedient dog stopped, stared at something above the bridge, and jumped. Trevorrow later said, "She definitely saw something that made her jump. There is something sinister going on. It was so out of character for her."
+The phenomenon gained wider attention during the 2000s and 2010s as reports circulated online and in the British press. Some specific cases stand out:
 
-The pattern is remarkably consistent. The dogs jump from roughly the same spot: the right-hand side of the bridge, between the final two parapets. They jump during clear, dry weather far more often than in rain. Long-nosed breeds (Collies, Retrievers, Labradors, Spaniels) are disproportionately represented.
+**2004:** Kenneth Meikle was walking with his family and their golden retriever when the dog suddenly bolted and jumped off the bridge. The dog survived but was traumatized.
 
-## What Happens When a Dog Jumps?
+**2005:** At least five dogs jumped from the bridge within a six-month period, prompting local media coverage.
 
-Eyewitness accounts describe a sudden behavioral change. Dogs that have been walking calmly will stop, become fixated on something, and then lunge over the parapet without hesitation. There's no barking, no agitation beforehand. It's as if something on the other side of the wall demands their immediate attention.
+**2014:** Alice Trevorrow was walking her springer spaniel Cassie near the bridge when the dog, normally obedient, began staring at something above the bridge and then jumped. Trevorrow described the behavior as completely out of character.
 
-![A dog walking on a bridge in a natural setting, illustrating the everyday scene that turns dangerous at Overtoun](https://images.pexels.com/photos/326957/pexels-photo-326957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+The pattern has been remarkably consistent across decades. Dogs don't hesitate or appear confused. Eyewitnesses describe them becoming suddenly fixated on something, then running toward the edge and leaping over the parapet wall with apparent purpose.
 
-The bridge's parapet is about 18 inches tall, low enough for a medium or large dog to clear. But here's the crucial detail: from a dog's perspective on the bridge, the parapet wall is solid stone. A dog can't see the 50-foot drop on the other side. The dense foliage growing on the ravine slopes creates the visual impression, at dog height, that the ground simply continues on the other side of the wall.
+## Do the Dogs Jump From the Same Spot?
 
-Dogs aren't jumping to their deaths in any intentional sense. They're leaping over a wall, likely expecting solid ground. What they get instead is a 50-foot fall onto rocks.
+Yes, and this is one of the strangest details. Dogs overwhelmingly jump from the right-hand side of the bridge, between the final two parapets. Locals and investigators have confirmed this pattern repeatedly. Whatever's drawing them tends to draw them to the same location.
 
-This distinction matters. Dogs don't have the concept of suicide. What's happening at Overtoun Bridge is better described as dogs being powerfully compelled to jump over a wall that conceals a lethal drop. The question isn't "why are dogs suicidal?" It's "what's driving them over that wall?"
+There's also a breed pattern. Long-nosed breeds with especially strong scent-tracking abilities, like golden retrievers, springer spaniels, and collies, are disproportionately represented among the jumpers. Short-nosed breeds are rarely, if ever, involved. This detail has become one of the strongest pieces of evidence for the leading scientific theory.
+
+![A breathtaking view of a misty highland valley in Scotland with a flowing river](https://images.pexels.com/photos/4064432/pexels-photo-4064432.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 ## The Mink Scent Theory
 
-The most widely cited scientific explanation comes from canine psychologist Dr. David Sands, who investigated the bridge in 2014. His theory centers on one animal: the European mink.
+The most widely cited scientific explanation comes from Dr. David Sands, a canine psychologist who visited the bridge in 2010 and conducted field experiments.
 
-Mink were introduced to the Overtoun area in the 1950s, the same decade the dog jumps began. Male mink produce an extremely potent scent from their anal glands, and this odor is virtually irresistible to dogs, particularly long-nosed breeds with a powerful sense of smell.
+Sands's theory rests on two observations. First, the area beneath the bridge is home to mink, mice, squirrels, and pine martens, all of which produce strong scent signatures. Mink in particular have notoriously pungent urine and musk glands that produce a powerful, skunk-like odor. Second, long-nosed dog breeds have an extraordinary sense of smell (up to 100,000 times more sensitive than humans) and a strong instinct to pursue prey.
 
-Sands's investigation found several supporting factors:
+Sands conducted an experiment in which he exposed ten dogs to canisters filled with the scent of mouse, squirrel, and mink. Seven out of ten dogs went straight for the mink scent, many of them "quite dramatically," according to a Royal Society for the Protection of Birds investigation that confirmed mink activity beneath the bridge.
 
-**The scent experiment.** Ten dogs were presented with canisters containing the scent of mice, squirrels, and mink. Seven out of ten went straight for the mink scent, "many of them quite dramatically."
+The theory goes like this: a dog walking across the bridge catches the overpowering scent of mink wafting up from the gorge below. Its prey drive kicks in. It runs to the parapet wall to get closer to the scent. And because the wall is tapered, and the dog can't see the drop on the other side from its low vantage point, it topples over.
 
-**The RSPB survey.** The Royal Society for the Protection of Birds investigated the area beneath the bridge and found evidence of nests belonging to mice, squirrels, and mink on the side of the bridge where dogs most frequently jump.
+"I think it's highly likely in all the cases here at Overtoun Bridge that it was curiosity that killed the dog," Sands said in his documentary about the phenomenon.
 
-**The timing.** Mink scent is strongest on clear, dry days, which matches the weather pattern of the jumps. Wet conditions would dilute and disperse the scent.
+![Close-up of a European mink in a grassy outdoor setting](https://images.pexels.com/photos/29032859/pexels-photo-29032859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
-**The breed pattern.** Long-nosed breeds like Collies, Retrievers, and Spaniels have a far more powerful sense of smell than flat-nosed breeds. They're also the breeds most commonly involved in the jumps.
+The mink theory has its skeptics. John Joyce, a local hunter who'd lived in the area for 50 years at the time of the *New York Times*'s 2019 report, flatly rejected the idea: "There are no mink [in the area]." The RSPB investigation contradicted him, finding evidence of mink nests on the side of the bridge where dogs tend to jump. But the disagreement highlights how contested the explanation remains among locals.
 
-![Misty Scottish Highland valley with a flowing river, the type of landscape surrounding Overtoun Bridge](https://images.pexels.com/photos/4064432/pexels-photo-4064432.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+There's also a timing issue. If mink have always lived in the gorge, why did dogs only start jumping in the 1950s? One possible answer: American mink were first released into the Scottish wild from fur farms in the 1950s, which lines up almost perfectly with the earliest reported incidents. Before that, the gorge may not have contained the specific scent that triggers such an intense reaction.
 
-The theory is compelling, but it has significant gaps. Local hunter John Joyce, who'd lived in the area for 50 years, rejected the mink explanation outright, stating there were "no mink" in the immediate area. And critics raise an important question: there are many bridges across Scotland with mink living beneath them. Why does this only happen at Overtoun Bridge?
+## Does the Bridge's Design Trick Dogs?
 
-## Why Does It Only Happen at One Spot on the Bridge?
+The bridge's architecture is likely a contributing factor, regardless of what draws dogs to the edge. Several features combine to make it dangerous:
 
-This is the detail that keeps the mystery alive. If mink scent were the sole explanation, you'd expect dog jumps at other bridges too. But the phenomenon is, as far as anyone can document, unique to Overtoun.
+**The parapet walls are tapered.** They're wider at the base and narrower at the top. A dog that jumps up to investigate a scent at the top of the wall is more likely to lose its balance and fall over than it would on a flat-topped wall.
 
-Several structural features of the bridge may contribute:
+**The drop isn't visible from dog height.** Standing on the bridge, a human can easily see the 50-foot gorge below. But from a dog's eye level (typically 1 to 2 feet off the ground), the parapet wall blocks the view entirely. The other side of the wall might look like flat ground, or simply more bridge. There's no visual cue telling the dog that a lethal drop awaits.
 
-**The parapet height.** At roughly 18 inches, it's low enough for most dogs to clear without much effort. Many bridges have taller railings or barriers.
+**The surrounding foliage reinforces the illusion.** Dense vegetation grows on both sides of the bridge and in the gorge below. From certain angles and at certain heights, the canopy of trees on the far side of the gorge can appear to be at ground level, making the drop even harder to perceive.
 
-**The visual illusion.** The dense foliage on the ravine's slopes creates what appears to be level ground when viewed from dog height. From a human's elevated perspective, the drop is obvious. From a Springer Spaniel's eye level? It looks like a field.
+This combination of design elements means a dog that's excited, scent-driven, and focused on something on the other side of the wall may genuinely not understand that jumping will lead to a 50-foot fall. It's not suicide. It's a tragic optical and architectural illusion.
 
-**The tapering wall.** The owners of Overtoun House, who lived there for 17 years, observed that the parapet wall tapers slightly. A dog that jumps up on the wall to investigate a scent wouldn't land squarely on top; it would topple over the other side.
+## The Paranormal Explanations
 
-**The wind channel.** The ravine acts as a natural wind tunnel, potentially concentrating and funneling scents from below directly up to the bridge's walkway at certain points.
+Dumbarton and the surrounding area have a strong tradition of folklore and superstition, and several paranormal explanations have circulated alongside the scientific ones.
 
-The combination of these factors, a low, tapering wall, a hidden drop disguised by vegetation, concentrated animal scent, and a wind channel, creates conditions that exist nowhere else. At least, that's the theory. No one has been able to replicate the full set of conditions to test it.
+**The White Lady of Overtoun.** Some locals believe the ghost of a grieving widow haunts the bridge and drives dogs to their deaths. The story is vague on specifics, and there's no documented "White Lady" connected to the house's actual history, but the legend persists.
 
-## The Paranormal Theories
+**The 1994 tragedy.** In October 1994, a man suffering from paranoid schizophrenia threw his two-week-old son from the bridge, believing the infant was the devil. The baby died the following day. Some locals believe this event left a "supernatural rift" at the bridge, and they note that dogs tend to jump from approximately the same spot where the baby was thrown. There's no scientific basis for this claim, but it reflects the depth of unease the bridge inspires.
 
-Locals have long offered a different explanation: the bridge is haunted.
+**Spiritual sensitivity.** Some residents believe that dogs, being more perceptive than humans, can sense something at the bridge that people can't. This belief was shared, interestingly, by the owners of Overtoun House themselves. The couple, originally from Texas, told the *New York Times* in 2019 that while they believed mink scent played a role, they also felt the grounds possessed "some sort of spiritual quality."
 
-The most common supernatural theory involves the "White Lady of Overtoun." According to local lore, the ghost of Lady Overtoun has been seen on the bridge and in the grounds of Overtoun House. Some believe she's a benign presence; others think she's responsible for the dog deaths, since animals are supposedly more sensitive to paranormal activity than humans.
+For more on locations where animals behave in unexplained ways, see our coverage of [Skinwalker Ranch](/articles/skinwalker-ranch), where cattle mutilations have been reported for decades. And for another mystery where a leading theory involves the gap between what humans and animals perceive, explore [the Hessdalen Lights](/articles/hessdalen-lights) of Norway.
 
-![Fog-covered Scottish highlands with rocky terrain, evoking the eerie atmosphere surrounding Overtoun Bridge legends](https://images.pexels.com/photos/6158918/pexels-photo-6158918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+![Stunning view of Glencoe Valley showcasing rugged mountains and lush greenery under an overcast sky](https://images.pexels.com/photos/17646624/pexels-photo-17646624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
-The owners of Overtoun House themselves, while practically attributing the jumps to mink scent, also acknowledged a spiritual dimension. The original owner, a pastor from Texas, believed the grounds possessed some kind of spiritual quality. The concept of a "thin place," a location where the boundary between the physical and spiritual worlds is unusually permeable, is deeply rooted in Celtic spiritual tradition, and the Overtoun estate sits in a region rich with that heritage.
+## Can Dogs Actually Commit Suicide?
 
-Some locals point to a more specific dark energy. In 1994 (detailed below), a deeply disturbed man threw his infant son from the bridge, then attempted to take his own life. He specifically chose Overtoun Bridge because of its association with "dark spirits and ancient Druids." Whether the bridge attracted darkness or darkness attached itself to the bridge is, depending on who you ask, an open question.
+This is the question that makes the Overtoun Bridge story so unsettling, and the scientific consensus is clear: no. Dogs don't have the cognitive framework for suicide. They can experience depression, grief, and distress, but the deliberate decision to end one's own life requires a level of abstract self-awareness and future-oriented thinking that dogs don't possess.
 
-There's no scientific way to evaluate these claims. But they persist, and they're part of the bridge's identity in the community. The paranormal explanation may not satisfy a researcher, but it resonates with people who've watched their dogs behave strangely on that particular stretch of stone.
+What dogs do have is an incredibly powerful sense of smell and a prey drive that can override caution. A dog that catches an overwhelming scent doesn't stop to evaluate the structural integrity of whatever's between it and the source of that scent. It just goes.
 
-## The 1994 Tragedy
+The word "suicide" in "Dog Suicide Bridge" is evocative, but it's almost certainly misleading. These are accidents caused by a combination of powerful animal instinct and a bridge that, from a dog's perspective, conceals a lethal danger. The dogs aren't choosing to die. They don't know they're about to fall.
 
-In October 1994, a man suffering from paranoid schizophrenia threw his two-week-old son from Overtoun Bridge. The infant died on the rocks below. The father then attempted to take his own life by jumping but survived. He was caught and placed in a mental health hospital.
+That said, the mystery isn't entirely solved. The mink theory is the strongest explanation we have, but it doesn't account for every detail. Some dogs have jumped on days when mink activity should be low. Some have jumped despite being on leashes (pulling their owners toward the edge). And the sheer concentration of incidents at this one bridge, when Scotland has thousands of similar stone bridges over ravines, remains puzzling.
 
-During the investigation, the man said he believed his son was an incarnation of the Devil. He chose Overtoun Bridge specifically because of its reputation for dark spiritual energy and its associations with ancient Druid practices.
+The Scottish SPCA investigated and found their results "inconclusive." That's probably the most honest summary of where things stand: we have a good theory, but not a complete answer.
 
-This event didn't cause the dog jumps (they'd been happening for decades), but it deepened the bridge's grim reputation and added another layer to the supernatural narratives surrounding it. For many locals, the 1994 tragedy confirmed what they already felt: something about this place isn't right.
+## What's Been Done to Stop It?
 
-## What Have Official Investigations Found?
+Warning signs have been posted on the bridge advising dog owners to keep their pets on leashes. The signs read: "Dangerous bridge: please keep your dog on a lead." Local authorities and animal welfare groups have publicized the risk.
 
-Several organizations have looked into the Overtoun Bridge phenomenon:
+There have been periodic calls to install higher barriers or mesh fencing on the bridge, but as a listed historical structure, modifications require special approval, and no permanent changes have been made to the parapet walls.
 
-**Dr. David Sands (2014)** conducted the most thorough scientific investigation, proposing the mink scent theory. His findings were suggestive but not conclusive.
+The most effective intervention is simply awareness. Dog owners who know about the bridge's history tend to leash their dogs before crossing. The incidents that continue to occur most often involve visitors who aren't familiar with the bridge's reputation.
 
-**The Royal Society for the Protection of Birds** surveyed the area beneath the bridge and confirmed the presence of mink, mice, and squirrel nests on the side where dogs jump.
-
-**The Scottish Society for the Prevention of Cruelty to Animals (SSPCA)** investigated the bridge and surrounding area. Their findings were officially "inconclusive."
-
-**Overtoun House owners** installed warning signs advising dog walkers to keep their pets on leashes while crossing the bridge. This has helped reduce incidents, but jumps still occur.
-
-No single investigation has produced a definitive answer. The mink theory is the strongest scientific candidate, but it doesn't explain the site-specific nature of the phenomenon, and the SSPCA's inconclusive finding suggests even experts aren't fully satisfied.
-
-## Why Hasn't This Been Solved?
-
-The Overtoun Bridge mystery persists because it sits in an awkward space between the mundane and the inexplicable.
-
-The mink theory explains a lot. Maybe it explains everything. But "a lot" and "everything" aren't the same thing. The theory can't fully account for why this bridge and no other triggers the behavior, why some dogs return and jump a second time, or why the SSPCA found the evidence inconclusive after their own investigation.
-
-A comprehensive study would require monitoring the bridge with cameras, scent sensors, and wind measurement equipment over an extended period, while simultaneously surveying mink populations and tracking every dog that crosses. That study has never been conducted, likely because the phenomenon, while distressing, doesn't rise to the level of a public safety crisis that would justify the funding.
-
-So we're left with a Victorian bridge over a Scottish ravine, a compelling but incomplete theory about mink, ghost stories about a White Lady, and the unsettling fact that dogs keep jumping. Sometimes the simplest-sounding mysteries are the hardest to close.
-
-For more on places where something seems genuinely wrong, explore the [Bermuda Triangle](/articles/bermuda-triangle), where ships and planes vanish without explanation. The [Dyatlov Pass Incident](/articles/dyatlov-pass-incident) offers another case where people (not animals) fled a safe shelter into certain death for reasons that remain debated. And [Havana Syndrome](/articles/havana-syndrome) asks whether invisible forces can affect the brain in ways we don't yet understand.
+For another mystery where a strange location produces behaviors that science can partly but not fully explain, see our coverage of [the Taos Hum](/articles/taos-hum), where 2% of a New Mexico town hears a sound that no instrument can detect.
 
 ## Frequently Asked Questions
 
-### How many dogs have jumped from Overtoun Bridge?
+### How many dogs have died at Overtoun Bridge?
 
-At least 300 documented cases since the 1950s, with at least 50 dogs dying from the fall. The actual numbers are likely higher, as not all incidents were reported, especially in earlier decades.
+At least 50 dogs have died from jumping off the bridge since the 1950s, with at least 300 total documented jumps. The true numbers are probably higher since not all incidents are reported.
 
 ### Why do dogs jump from Overtoun Bridge?
 
-The leading scientific theory is that the scent of mink living beneath the bridge attracts dogs, particularly long-nosed breeds. The bridge's low parapet and dense foliage create a visual illusion where dogs can't see the 50-foot drop. However, no single explanation fully accounts for why it happens only at this bridge.
+The leading theory is that dogs, especially long-nosed breeds with strong scent abilities, detect the powerful musk of mink living in the gorge below. The bridge's tapered parapet walls prevent dogs from seeing the 50-foot drop, so they leap over expecting safe ground.
+
+### Do dogs always jump from the same spot on the bridge?
+
+Yes. Dogs consistently jump from the right-hand side of the bridge, between the final two parapets. This is also the side where investigators found evidence of mink nests and animal activity below.
 
 ### Is Overtoun Bridge haunted?
 
-Local folklore associates the bridge with the "White Lady of Overtoun" and a general sense of spiritual unease. The bridge's owners have acknowledged a spiritual quality to the grounds, and a 1994 tragedy involving a man who chose the bridge specifically for its dark reputation added to its haunted image. There's no scientific evidence for a paranormal cause.
+Some locals believe so. Theories include the ghost of a "White Lady" and residual energy from a 1994 tragedy on the bridge. There's no scientific evidence for these claims, but the bridge's reputation and the consistency of the incidents fuel the speculation.
 
 ### Can you still walk dogs across Overtoun Bridge?
 
-Yes, but warning signs now advise dog owners to keep their pets on a leash while crossing. This has reduced incidents but hasn't eliminated them entirely.
-
-### What breeds of dogs jump from the bridge most often?
-
-Long-nosed breeds are disproportionately represented, including Collies, Golden Retrievers, Labradors, and Springer Spaniels. These breeds have a more powerful sense of smell, which supports the mink scent theory.
+Yes, but warning signs advise keeping dogs on a leash. The bridge remains open to pedestrians and leads to Overtoun House and the surrounding estate grounds.
